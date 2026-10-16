@@ -1,7 +1,7 @@
 # CacheAudioShenanigans
 CAS (CacheAudioShenanigans) - BGM &amp; Headphone Audio Patcher for Degrees of Lewdity Plus/X-Change.
 
---- Mediafire link for TL's Audio, Soon. my data provider decided to stop working when it was so CLOSE to uploading bro
+--- Mediafire link for TL's Audio, Soon. my data provider decided to stop working when it was so CLOSE to uploading bro, eventually I will genuinely skin my provider and turn them into a lamp shade.
 
 --- TesterLan: I was lazy and just copy & pasted my tutorial below lol ---
 
