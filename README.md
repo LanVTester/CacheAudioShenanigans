@@ -1,9 +1,15 @@
-# CacheAudioShenanigans
-CAS (CacheAudioShenanigans) - BGM &amp; Headphone Audio Patcher for Degrees of Lewdity Plus/X-Change.
+# 🎧 CacheAudioShenanigans (CAS)
+> **BGM &amp; Headphone Audio Patcher for *Degrees of Lewdity Plus/X-Change*.**
+
+[![Game](https://img.shields.io/badge/Game-Degrees%20of%20Lewdity-ff69b4.svg)](https://dolmods.net)
+[![Engine](https://img.shields.io/badge/Engine-SugarCube%202-blue.svg)](https://github.com/LanVTester/CacheAudioShenanigans)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 --- Mediafire link for TL's Audio, Soon. my data provider decided to stop working when it was so CLOSE to uploading bro, eventually I will genuinely skin my provider and turn them into a lamp shade.
 
---- TesterLan: I was lazy and just copy & pasted my tutorial below lol ---
+
+
++----- TesterLan: I was lazy and just copy & pasted my tutorial below lol -----+
 
 step 0: literally have a PC or a LAPTOP!
 
