@@ -2,14 +2,14 @@
 > **BGM &amp; Headphone Audio Patcher for *Degrees of Lewdity Plus/X-Change*.**
 
 [![Game](https://img.shields.io/badge/Game-Degrees%20of%20Lewdity-ff69b4.svg)](https://dolmods.net)
-[![Engine](https://img.shields.io/badge/Engine-SugarCube%202-blue.svg)](https://github.com/LanVTester/CacheAudioShenanigans)
+[![Engine](https://img.shields.io/badge/Engine-SugarCube%202-blue.svg)](https://www.motoslave.net/sugarcube/2/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
---- Mediafire link for TL's Audio, Soon. my data provider decided to stop working when it was so CLOSE to uploading bro, eventually I will genuinely skin my provider and turn them into a lamp shade.
+**--- Mediafire link for TL's Audio, Soon.**
 
+*my data provider decided to stop working when it was so CLOSE to uploading bro, eventually I will genuinely skin my provider and turn them into a lamp shade.*
 
-
-+----- TesterLan: I was lazy and just copy & pasted my tutorial below lol -----+
+**+----- TesterLan: I was lazy and just copy & pasted my tutorial below lol -----+**
 
 step 0: literally have a PC or a LAPTOP!
 
@@ -42,12 +42,17 @@ step 5: you can go ahead and put back the (CacheAudio.txt and Patch.py) in the C
 
 How to add your own track without blowing up everything into red!
 
-step 1: become a python coder with trauma
-step 2: go insane
-step 3: go insane again
-step 4: become afraid
-step 5: actual start of tutorial
-step 6.7: you may see something like this
+= step 1: become a python coder with trauma
+
+= step 2: go insane
+
+= step 3: go insane again
+
+= step 4: become afraid
+
+= step 5: actual start of tutorial
+
+= step 6.7: you may see something like this
 ---
             <<case "arcade">>
                 <<cacheaudio "arcade1" "audio/bgm/arcade/HoliznaCC0 - Mutant Club.mp3">>
@@ -60,9 +65,11 @@ step 6.7: you may see something like this
                         <<track "tl-arcade-1">>
                         <<track "tl-arcade-2">>
 ---
-step 6.9: simply copy and paste the last track (like <<cacheaudio to last >>) and update the tl number and put in your new audio file name, dont forget the last one too you can find by rightclicking and checking properties! (e.g mp3, etc.)
-step 7: try the same thing for the track tl one, copy and paste and update it to the current number of cacheaudio!
-step 7.5: my example
+= step 6.9: simply copy and paste the last track (like <<cacheaudio to last >>) and update the tl number and put in your new audio file name, dont forget the last one too you can find by rightclicking and checking properties! (e.g mp3, etc.)
+
+= step 7: try the same thing for the track tl one, copy and paste and update it to the current number of cacheaudio!
+
+= step 7.5: my example
 ---
             <<case "arcade">>
                 <<cacheaudio "arcade1" "audio/bgm/arcade/HoliznaCC0 - Mutant Club.mp3">>
@@ -77,13 +84,13 @@ step 7.5: my example
                         <<track "tl-arcade-2">>
                         <<track "tl-arcade-3">>
 ---
-step 7.55: get it?
-step 7.75: ok from this point onwards you can learn the great ways of code and how it hurts soon!
+= step 7.55: get it?
 
-step 7.77: if your wondering where mr smith - dusk is in my SATL, uhmm I kinda deleted it because I HATED the music and you should too when you listen to it multiple times when testing audio in-game
+= step 7.75: ok from this point onwards you can learn the great ways of code and how it hurts soon!
 
+= step 7.77: if your wondering where mr smith - dusk is in my SATL, uhmm I kinda deleted it because I HATED the music and you should too when you listen to it multiple times when testing audio in-game
 
-step 7.775: use ctrl + h for find and replace, or be simple by using f3 instead. 
+= step 7.775: use ctrl + h for find and replace, or be simple by using f3 instead. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Extra Thing about the .Bak that is created in your DoL Folder, if your DoL's Main HTML File Breaks, You can switch the .bak to .html and send that broken DoL to the Trash! But you should try to find the cause of what broke your game tho.
@@ -120,7 +127,7 @@ I know there is a sfx/bgv area, I just refuse to expand my code to it, let em su
 
 
 
-(Cache-Audio - Your Template + No Vanilla.txt or its vanilla version can be anything, like Cache-Audio(NON-V)_Monogatari Overhaul_v???.txt lol ngl I would love for it to exist soon maybe..)
+*(Cache-Audio - Your Template + No Vanilla.txt or its vanilla version can be anything, like Cache-Audio(NON-V)_Monogatari Overhaul_v???.txt lol ngl I would love for it to exist soon maybe..)*
 
 
 Is it me or Is the intructions just chaotic?
@@ -128,6 +135,7 @@ Is it me or Is the intructions just chaotic?
 
 patch.py fixes your audio onto the main game, and patch the headphones aswell. I didnt know there were headphones in the game lol... its in high street in shopping centre in the furniture store and electronics
 might be niche or smth.
+
 also I do not know if this is in the vanilla game DoL lol.
 
 Meow!
@@ -137,7 +145,7 @@ I do not know where bgm/home even goes to, it certainly isnt in the orphanage pc
 |----TesterLan----|
 
 
-T---T
+T---L
 for special custom modding on my behalf!
 
 if ppl ever decide to make a dedicated music mod it should have a Cache-Audio_Name.txt and It's Custom Audio Folder In its zipfile.
@@ -147,4 +155,4 @@ also I, TL does have a discord account! I just refuse to tell you :)
 u can say smth through the issues, tell me if the game updated and somehow broke my code (and I can find it or replicate) or they literally added new audio locations so tell me In Issues and I can fix my template and add some folders.
 
 [also I do not check my github that often so something like every some lucky week]
-T---T
+T---L
