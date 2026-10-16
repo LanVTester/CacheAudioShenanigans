@@ -1,0 +1,244 @@
+            /% ========================================================================= %/
+            /% ==============================  AREAS  ================================== %/
+            /% ========================================================================= %/
+
+            <<case "arcade">>
+                <<cacheaudio "custom-arcade-1" "custom-audio-folder-name-here!/bgm/arcade/your audio here!.opus">>
+                    <<createplaylist "arcade">>
+                        <<track "custom-arcade-1">>
+                    <</createplaylist>>
+            <<case "asylum">>
+                <<cacheaudio "custom-asylum-1" "custom-audio-folder-name-here!/bgm/asylum/your audio here!.opus">>
+                    <<createplaylist "asylum">>
+                        <<track "custom-asylum-1">>
+                    <</createplaylist>>
+            <<case "beach">>
+                <<cacheaudio "custom-beach-1" "custom-audio-folder-name-here!/bgm/beach/your audio here!.opus">>
+                    <<createplaylist "beach">>
+                        <<track "custom-beach-1">>
+                    <</createplaylist>>
+            <<case "brothel">>
+                <<cacheaudio "custom-brothel-1" "custom-audio-folder-name-here!/bgm/brothel/your audio here!.opus">>
+                    <<createplaylist "brothel">>
+                        <<track "custom-brothel-1">>
+                    <</createplaylist>>
+            <<case "cafe">>
+                <<cacheaudio "custom-cafe-1" "custom-audio-folder-name-here!/bgm/cafe/your audio here!.opus">>
+                    <<createplaylist "cafe">>
+                        <<track "custom-cafe-1">>
+                    <</createplaylist>>
+            <<case "dance_studio">>
+                <<cacheaudio "custom-dance_studio-1" "custom-audio-folder-name-here!/bgm/dance_studio/your audio here!.opus">>
+                    <<createplaylist "dance_studio">>
+                        <<track "custom-dance_studio-1">>
+                    <</createplaylist>>
+            <<case "encounter-consensual">>
+                <<cacheaudio "custom-encounter-consensual-1" "custom-audio-folder-name-here!/bgm/encounter/consensual/your audio here!.opus">>
+                    <<createplaylist "encounter-consensual">>
+                        <<track "custom-encounter-consensual-1">>
+                    <</createplaylist>>
+            <<case "encounter-noncon">>
+                <<cacheaudio "custom-encounter-noncon-1" "custom-audio-folder-name-here!/bgm/encounter/noncon/your audio here!.opus">>
+                    <<createplaylist "encounter-noncon">>
+                        <<track "custom-encounter-noncon-1">>
+                    <</createplaylist>>
+            <<case "farm-day">>
+                <<cacheaudio "custom-farm-day-1" "custom-audio-folder-name-here!/bgm/farm/day/your audio here!.opus">>
+                    <<createplaylist "farm-day">>
+                        <<track "custom-farm-day-1">>
+                    <</createplaylist>>
+            <<case "farm-night">>
+                <<cacheaudio "custom-farm-night-1" "custom-audio-folder-name-here!/bgm/farm/night/your audio here!.opus">>
+                    <<createplaylist "farm-night">>
+                        <<track "custom-farm-night-1">>
+                    <</createplaylist>>
+            <<case "forest">>
+                <<cacheaudio "custom-forest-1" "custom-audio-folder-name-here!/bgm/forest/your audio here!.opus">>
+                    <<createplaylist "forest">>
+                        <<track "custom-forest-1">>
+                    <</createplaylist>>
+            <<case "hospital">>
+                <<cacheaudio "custom-hospital-1" "custom-audio-folder-name-here!/bgm/hospital/your audio here!.opus">>
+                    <<createplaylist "hospital">>
+                        <<track "custom-hospital-1">>
+                    <</createplaylist>>
+            <<case "home">>
+                <<cacheaudio "custom-home-1" "custom-audio-folder-name-here!/bgm/home/your audio here!.opus">>
+                    <<createplaylist "home">>
+                        <<track "custom-home-1">>
+                    <</createplaylist>>
+            <<case "island">>
+                <<cacheaudio "custom-island-1" "custom-audio-folder-name-here!/bgm/island/your audio here!.opus">>
+                    <<createplaylist "island">>
+                        <<track "custom-island-1">>
+                    <</createplaylist>>
+            <<case "mma_gym">>
+                <<cacheaudio "custom-mma_gym-1" "custom-audio-folder-name-here!/bgm/mma_gym/your audio here!.opus">>
+                    <<createplaylist "mma_gym">>
+                        <<track "custom-mma_gym-1">>
+                    <</createplaylist>>
+            <<case "meadow">>
+                <<cacheaudio "custom-meadow-1" "custom-audio-folder-name-here!/bgm/meadow/your audio here!.opus">>
+                    <<createplaylist "meadow">>
+                        <<track "custom-meadow-1">>
+                    <</createplaylist>>
+            <<case "moor">>
+                <<cacheaudio "custom-moor-1" "custom-audio-folder-name-here!/bgm/moor/your audio here!.opus">>
+                    <<createplaylist "moor">>
+                        <<track "custom-moor-1">>
+                    <</createplaylist>>
+
+            /% ========================================================================= %/
+            /% =======================  NAMED NPCS (NNPC)  ============================= %/
+            /% ========================================================================= %/
+
+            <<case "Avery">>
+                <<cacheaudio "custom-Avery-1" "custom-audio-folder-name-here!/bgm/nnpc/Avery/your audio here!.opus">>
+                    <<createplaylist "Avery">>
+                        <<track "custom-Avery-1">>
+                    <</createplaylist>>
+            <<case "Bailey">>
+                <<cacheaudio "custom-Bailey-1" "custom-audio-folder-name-here!/bgm/nnpc/Bailey/your audio here!.opus">>
+                    <<createplaylist "Bailey">>
+                        <<track "custom-Bailey-1">>
+                    <</createplaylist>>
+            <<case "Eden">>
+                <<cacheaudio "custom-Eden-1" "custom-audio-folder-name-here!/bgm/nnpc/Eden/your audio here!.opus">>
+                    <<createplaylist "Eden">>
+                        <<track "custom-Eden-1">>
+                    <</createplaylist>>
+            <<case "Gwylan">>
+                <<cacheaudio "custom-Gwylan-1" "custom-audio-folder-name-here!/bgm/nnpc/Gwylan/your audio here!.opus">>
+                    <<createplaylist "Gwylan">>
+                        <<track "custom-Gwylan-1">>
+                    <</createplaylist>>
+            <<case "IvoryWraith">>
+                <<cacheaudio "custom-IvoryWraith-1" "custom-audio-folder-name-here!/bgm/nnpc/Ivory Wraith/your audio here!.opus">>
+                    <<createplaylist "IvoryWraith">>
+                        <<track "custom-IvoryWraith-1">>
+                    <</createplaylist>>
+            <<case "Kylar">>
+                <<cacheaudio "custom-Kylar-1" "custom-audio-folder-name-here!/bgm/nnpc/Kylar/your audio here!.opus">>
+                    <<createplaylist "Kylar">>
+                        <<track "custom-Kylar-1">>
+                    <</createplaylist>>
+            <<case "Poppy">>
+                <<cacheaudio "custom-Poppy-1" "custom-audio-folder-name-here!/bgm/nnpc/Poppy/your audio here!.opus">>
+                    <<createplaylist "Poppy">>
+                        <<track "custom-Poppy-1">>
+                    <</createplaylist>>
+            <<case "Robin">>
+                <<cacheaudio "custom-Robin-1" "custom-audio-folder-name-here!/bgm/nnpc/Robin/your audio here!.opus">>
+                    <<createplaylist "Robin">>
+                        <<track "custom-Robin-1">>
+                    <</createplaylist>>
+            <<case "Sydney">>
+                <<cacheaudio "custom-Sydney-1" "custom-audio-folder-name-here!/bgm/nnpc/Sydney/your audio here!.opus">>
+                    <<createplaylist "Sydney">>
+                        <<track "custom-Sydney-1">>
+                    <</createplaylist>>
+            <<case "Whitney">>
+                <<cacheaudio "custom-Whitney-1" "custom-audio-folder-name-here!/bgm/nnpc/Whitney/your audio here!.opus">>
+                    <<createplaylist "Whitney">>
+                        <<track "custom-Whitney-1">>
+                    <</createplaylist>>
+            <<case "Wren">>
+                <<cacheaudio "custom-Wren-1" "custom-audio-folder-name-here!/bgm/nnpc/Wren/your audio here!.opus">>
+                    <<createplaylist "Wren">>
+                        <<track "custom-Wren-1">>
+                    <</createplaylist>>
+            <<case "Zephyr">>
+                <<cacheaudio "custom-Zephyr-1" "custom-audio-folder-name-here!/bgm/nnpc/Zephyr/your audio here!.opus">>
+                    <<createplaylist "Zephyr">>
+                        <<track "custom-Zephyr-1">>
+                    <</createplaylist>>
+
+            /% ========================================================================= %/
+            /% ===========================  AREAS (CONT.)  ============================= %/
+            /% ========================================================================= %/
+
+            <<case "office">>
+                <<cacheaudio "custom-office-1" "custom-audio-folder-name-here!/bgm/office/your audio here!.opus">>
+                    <<createplaylist "office">>
+                        <<track "custom-office-1">>
+                    <</createplaylist>>
+            <<case "old_temple">>
+                <<cacheaudio "custom-old_temple-1" "custom-audio-folder-name-here!/bgm/old_temple/your audio here!.opus">>
+                    <<createplaylist "old_temple">>
+                        <<track "custom-old_temple-1">>
+                    <</createplaylist>>
+            <<case "park-day">>
+                <<cacheaudio "custom-park-day-1" "custom-audio-folder-name-here!/bgm/park/day/your audio here!.opus">>
+                    <<createplaylist "park-day">>
+                        <<track "custom-park-day-1">>
+                    <</createplaylist>>
+            <<case "park-night">>
+                <<cacheaudio "custom-park-night-1" "custom-audio-folder-name-here!/bgm/park/night/your audio here!.opus">>
+                    <<createplaylist "park-night">>
+                        <<track "custom-park-night-1">>
+                    <</createplaylist>>
+            <<case "prison">>
+                <<cacheaudio "custom-prison-1" "custom-audio-folder-name-here!/bgm/prison/your audio here!.opus">>
+                    <<createplaylist "prison">>
+                        <<track "custom-prison-1">>
+                    <</createplaylist>>
+            <<case "pub">>
+                <<cacheaudio "custom-pub-1" "custom-audio-folder-name-here!/bgm/pub/your audio here!.opus">>
+                    <<createplaylist "pub">>
+                        <<track "custom-pub-1">>
+                    <</createplaylist>>
+            <<case "school">>
+                <<cacheaudio "custom-school-1" "custom-audio-folder-name-here!/bgm/school/your audio here!.opus">>
+                    <<createplaylist "school">>
+                        <<track "custom-school-1">>
+                    <</createplaylist>>
+            <<case "afterschool">>
+                <<cacheaudio "custom-afterschool-1" "custom-audio-folder-name-here!/bgm/school/afterschool/your audio here!.opus">>
+                    <<createplaylist "afterschool">>
+                        <<track "custom-afterschool-1">>
+                    <</createplaylist>>
+            <<case "sea">>
+                <<cacheaudio "custom-sea-1" "custom-audio-folder-name-here!/bgm/sea/your audio here!.opus">>
+                    <<createplaylist "sea">>
+                        <<track "custom-sea-1">>
+                    <</createplaylist>>
+            <<case "sewers">>
+                <<cacheaudio "custom-sewers-1" "custom-audio-folder-name-here!/bgm/sewers/your audio here!.opus">>
+                    <<createplaylist "sewers">>
+                        <<track "custom-sewers-1">>
+                    <</createplaylist>>
+            <<case "shopping_centre">>
+                <<cacheaudio "custom-shopping_centre-1" "custom-audio-folder-name-here!/bgm/shopping_centre/your audio here!.opus">>
+                    <<createplaylist "shopping_centre">>
+                        <<track "custom-shopping_centre-1">>
+                    <</createplaylist>>
+            <<case "strip_club">>
+                <<cacheaudio "custom-strip_club-1" "custom-audio-folder-name-here!/bgm/strip_club/your audio here!.opus">>
+                    <<createplaylist "strip_club">>
+                        <<track "custom-strip_club-1">>
+                    <</createplaylist>>
+            <<case "studio">>
+                <<cacheaudio "custom-studio-1" "custom-audio-folder-name-here!/bgm/studio/your audio here!.opus">>
+                    <<createplaylist "studio">>
+                        <<track "custom-studio-1">>
+                    <</createplaylist>>
+            <<case "temple">>
+                <<cacheaudio "custom-temple-1" "custom-audio-folder-name-here!/bgm/temple/your audio here!.opus">>
+                    <<createplaylist "temple">>
+                        <<track "custom-temple-1">>
+                    <</createplaylist>>
+            <<case "tentworld">>
+                <<cacheaudio "custom-tentworld-1" "custom-audio-folder-name-here!/bgm/tentworld/your audio here!.opus">>
+                    <<createplaylist "tentworld">>
+                        <<track "custom-tentworld-1">>
+                    <</createplaylist>>
+            <<case "town-day">>
+                <<cacheaudio "custom-town-day-1" "custom-audio-folder-name-here!/bgm/town/day/your audio here!.opus">>
+                    <<createplaylist "town-day">>
+                        <<track "custom-town-day-1">>
+                    <</createplaylist>>
+            <<case "town-night">>
+                <<cacheaudio "custom-town-night-1" "custom-audio-folder-name-here!/bgm/town/night/your audio here!.opus">>
+                    <<createplaylist "town-night">>
+                        <<track "custom-town-night-1">>
+                    <</createplaylist>>

@@ -1,0 +1,432 @@
+            /% ========================================================================= %/
+            /% ==============================  AREAS  ================================== %/
+            /% ========================================================================= %/
+
+            <<case "arcade">>
+                <<cacheaudio "arcade1" "audio/bgm/arcade/HoliznaCC0 - Mutant Club.mp3">>
+
+                <<cacheaudio "custom-arcade-1" "custom-audio-folder-name-here!/bgm/arcade/your audio here!.opus">>
+                    <<createplaylist "arcade">>
+                        <<track "arcade1">>
+
+                        <<track "custom-arcade-1">>
+                    <</createplaylist>>
+            <<case "asylum">>
+                <<cacheaudio "asylum1" "audio/bgm/asylum/Pulse Burst - The Organization of Society and the Conditions of Health & Safety.mp3">>
+
+                <<cacheaudio "custom-asylum-1" "custom-audio-folder-name-here!/bgm/asylum/your audio here!.opus">>
+                    <<createplaylist "asylum">>
+                        <<track "asylum1">>
+
+                        <<track "custom-asylum-1">>
+                    <</createplaylist>>
+            <<case "beach">>
+                <<cacheaudio "beach1" "audio/bgm/beach/Anthem of Rain - Bad Nostalgia (Instrumental).mp3">>
+
+                <<cacheaudio "custom-beach-1" "custom-audio-folder-name-here!/bgm/beach/your audio here!.opus">>
+                    <<createplaylist "beach">>
+                        <<track "beach1">>
+
+                        <<track "custom-beach-1">>
+                    <</createplaylist>>
+            <<case "brothel">>
+                <<cacheaudio "brothel1" "audio/bgm/brothel/Beat Mekanik - Pink Soul.mp3">>
+
+                <<cacheaudio "custom-brothel-1" "custom-audio-folder-name-here!/bgm/brothel/your audio here!.opus">>
+                    <<createplaylist "brothel">>
+                        <<track "brothel1">>
+
+                        <<track "custom-brothel-1">>
+                    <</createplaylist>>
+            <<case "cafe">>
+                <<cacheaudio "cafe1" "audio/bgm/cafe/Mr Smith - Constance Chill.mp3">>
+
+                <<cacheaudio "custom-cafe-1" "custom-audio-folder-name-here!/bgm/cafe/your audio here!.opus">>
+                    <<createplaylist "cafe">>
+                        <<track "cafe1">>
+
+                        <<track "custom-cafe-1">>
+                    <</createplaylist>>
+            <<case "dance_studio">>
+                <<cacheaudio "dance_studio1" "audio/bgm/dance_studio/Anthem of Rain - So My Love - Instrumental.mp3">>
+
+                <<cacheaudio "custom-dance_studio-1" "custom-audio-folder-name-here!/bgm/dance_studio/your audio here!.opus">>
+                    <<createplaylist "dance_studio">>
+                        <<track "dance_studio1">>
+
+                        <<track "custom-dance_studio-1">>
+                    <</createplaylist>>
+            <<case "encounter-consensual">>
+                <<cacheaudio "encounter-consensual1" "audio/bgm/encounter/consensual/Hotham - Love Me Back (Instrumental).mp3">>
+
+                <<cacheaudio "custom-encounter-consensual-1" "custom-audio-folder-name-here!/bgm/encounter/consensual/your audio here!.opus">>
+                    <<createplaylist "encounter-consensual">>
+                        <<track "encounter-consensual1">>
+
+                        <<track "custom-encounter-consensual-1">>
+                    <</createplaylist>>
+            <<case "encounter-noncon">>
+                <<cacheaudio "encounter-noncon1" "audio/bgm/encounter/noncon/Audroid Mk1 - Dark Moon.mp3">>
+
+                <<cacheaudio "custom-encounter-noncon-1" "custom-audio-folder-name-here!/bgm/encounter/noncon/your audio here!.opus">>
+                    <<createplaylist "encounter-noncon">>
+                        <<track "encounter-noncon1">>
+
+                        <<track "custom-encounter-noncon-1">>
+                    <</createplaylist>>
+            <<case "farm-day">>
+                <<cacheaudio "farm-day1" "audio/bgm/farm/day/legacyAlli - RF Country Landscape.mp3">>
+
+                <<cacheaudio "custom-farm-day-1" "custom-audio-folder-name-here!/bgm/farm/day/your audio here!.opus">>
+                    <<createplaylist "farm-day">>
+                        <<track "farm-day1">>
+
+                        <<track "custom-farm-day-1">>
+                    <</createplaylist>>
+            <<case "farm-night">>
+                <<cacheaudio "farm-night1" "audio/bgm/farm/night/Axletree - The New Mown Hay, feat. Will Mason (after Holst).mp3">>
+
+                <<cacheaudio "custom-farm-night-1" "custom-audio-folder-name-here!/bgm/farm/night/your audio here!.opus">>
+                    <<createplaylist "farm-night">>
+                        <<track "farm-night1">>
+
+                        <<track "custom-farm-night-1">>
+                    <</createplaylist>>
+            <<case "forest">>
+                <<cacheaudio "forest1" "audio/bgm/forest/HoliznaCC0 - Yesterday.mp3">>
+
+                <<cacheaudio "custom-forest-1" "custom-audio-folder-name-here!/bgm/forest/your audio here!.opus">>
+                    <<createplaylist "forest">>
+                        <<track "forest1">>
+
+                        <<track "custom-forest-1">>
+                    <</createplaylist>>
+            <<case "hospital">>
+                <<cacheaudio "hospital1" "audio/bgm/hospital/Portrayal - Out of Light.mp3">>
+
+                <<cacheaudio "custom-hospital-1" "custom-audio-folder-name-here!/bgm/hospital/your audio here!.opus">>
+                    <<createplaylist "hospital">>
+                        <<track "hospital1">>
+
+                        <<track "custom-hospital-1">>
+                    <</createplaylist>>
+            <<case "home">>
+                <<cacheaudio "home1" "audio/bgm/home/Jahzzar - Maybe.mp3">>
+
+                <<cacheaudio "custom-home-1" "custom-audio-folder-name-here!/bgm/home/your audio here!.opus">>
+                    <<createplaylist "home">>
+                        <<track "home1">>
+
+                        <<track "custom-home-1">>
+                    <</createplaylist>>
+            <<case "island">>
+                <<cacheaudio "island1" "audio/bgm/island/Mark Wilson X - Ritual.mp3">>
+
+                <<cacheaudio "custom-island-1" "custom-audio-folder-name-here!/bgm/island/your audio here!.opus">>
+                    <<createplaylist "island">>
+                        <<track "island1">>
+
+                        <<track "custom-island-1">>
+                    <</createplaylist>>
+            <<case "mma_gym">>
+                <<cacheaudio "mma_gym1" "audio/bgm/mma_gym/Anthem of Rain - Rock This House (Instrumental).mp3">>
+
+                <<cacheaudio "custom-mma_gym-1" "custom-audio-folder-name-here!/bgm/mma_gym/your audio here!.opus">>
+                    <<createplaylist "mma_gym">>
+                        <<track "mma_gym1">>
+
+                        <<track "custom-mma_gym-1">>
+                    <</createplaylist>>
+            <<case "meadow">>
+                <<cacheaudio "meadow1" "audio/bgm/meadow/Strobotone - City Meadow.mp3">>
+
+                <<cacheaudio "custom-meadow-1" "custom-audio-folder-name-here!/bgm/meadow/your audio here!.opus">>
+                    <<createplaylist "meadow">>
+                        <<track "meadow1">>
+
+                        <<track "custom-meadow-1">>
+                    <</createplaylist>>
+            <<case "moor">>
+                <<cacheaudio "moor1" "audio/bgm/moor/A. Cooper - Sleeping Cat.mp3">>
+
+                <<cacheaudio "custom-moor-1" "custom-audio-folder-name-here!/bgm/moor/your audio here!.opus">>
+                    <<createplaylist "moor">>
+                        <<track "moor1">>
+
+                        <<track "custom-moor-1">>
+                    <</createplaylist>>
+
+            /% ========================================================================= %/
+            /% =======================  NAMED NPCS (NNPC)  ============================= %/
+            /% ========================================================================= %/
+
+            <<case "Avery">>
+                <<cacheaudio "Avery1" "audio/bgm/nnpc/Avery/Beat Mekanik - Savage.mp3">>
+
+                <<cacheaudio "custom-Avery-1" "custom-audio-folder-name-here!/bgm/nnpc/Avery/your audio here!.opus">>
+                    <<createplaylist "Avery">>
+                        <<track "Avery1">>
+
+                        <<track "custom-Avery-1">>
+                    <</createplaylist>>
+            <<case "Bailey">>
+                <<cacheaudio "Bailey1" "audio/bgm/nnpc/Bailey/Frequently Asked Music - Hallo Holla Halloween.mp3">>
+
+                <<cacheaudio "custom-Bailey-1" "custom-audio-folder-name-here!/bgm/nnpc/Bailey/your audio here!.opus">>
+                    <<createplaylist "Bailey">>
+                        <<track "Bailey1">>
+
+                        <<track "custom-Bailey-1">>
+                    <</createplaylist>>
+            <<case "Eden">>
+                <<cacheaudio "Eden1" "audio/bgm/nnpc/Eden/Anthem of Rain - Blood (Instrumental).mp3">>
+
+                <<cacheaudio "custom-Eden-1" "custom-audio-folder-name-here!/bgm/nnpc/Eden/your audio here!.opus">>
+                    <<createplaylist "Eden">>
+                        <<track "Eden1">>
+
+                        <<track "custom-Eden-1">>
+                    <</createplaylist>>
+            <<case "Gwylan">>
+                <<cacheaudio "Gwylan1" "audio/bgm/nnpc/Gwylan/LaFaena - Magic In The Magician's Library.mp3">>
+
+                <<cacheaudio "custom-Gwylan-1" "custom-audio-folder-name-here!/bgm/nnpc/Gwylan/your audio here!.opus">>
+                    <<createplaylist "Gwylan">>
+                        <<track "Gwylan1">>
+
+                        <<track "custom-Gwylan-1">>
+                    <</createplaylist>>
+            <<case "IvoryWraith">>
+                <<cacheaudio "IvoryWraith1" "audio/bgm/nnpc/Ivory Wraith/Pulse Burst - all hail the shine (in good health).mp3">>
+
+                <<cacheaudio "custom-IvoryWraith-1" "custom-audio-folder-name-here!/bgm/nnpc/Ivory Wraith/your audio here!.opus">>
+                    <<createplaylist "IvoryWraith">>
+                        <<track "IvoryWraith1">>
+
+                        <<track "custom-IvoryWraith-1">>
+                    <</createplaylist>>
+            <<case "Kylar">>
+                <<cacheaudio "Kylar1" "audio/bgm/nnpc/Kylar/HoliznaCC0 - Machines With Feelings.mp3">>
+
+                <<cacheaudio "custom-Kylar-1" "custom-audio-folder-name-here!/bgm/nnpc/Kylar/your audio here!.opus">>
+                    <<createplaylist "Kylar">>
+                        <<track "Kylar1">>
+
+                        <<track "custom-Kylar-1">>
+                    <</createplaylist>>
+            <<case "Poppy">>
+                <<cacheaudio "Poppy1" "audio/bgm/nnpc/Poppy/Makaih Beats - Late.mp3">>
+
+                <<cacheaudio "custom-Poppy-1" "custom-audio-folder-name-here!/bgm/nnpc/Poppy/your audio here!.opus">>
+                    <<createplaylist "Poppy">>
+                        <<track "Poppy1">>
+
+                        <<track "custom-Poppy-1">>
+                    <</createplaylist>>
+            <<case "Robin">>
+                <<cacheaudio "Robin1" "audio/bgm/nnpc/Robin/Cedric Galke x Fachhochschule Dortmund - Flowers.mp3">>
+
+                <<cacheaudio "custom-Robin-1" "custom-audio-folder-name-here!/bgm/nnpc/Robin/your audio here!.opus">>
+                    <<createplaylist "Robin">>
+                        <<track "Robin1">>
+
+                        <<track "custom-Robin-1">>
+                    <</createplaylist>>
+            <<case "Sydney">>
+                <<cacheaudio "Sydney1" "audio/bgm/nnpc/Sydney/Beat Mekanik - Dreams (Free Stems).mp3">>
+
+                <<cacheaudio "custom-Sydney-1" "custom-audio-folder-name-here!/bgm/nnpc/Sydney/your audio here!.opus">>
+                    <<createplaylist "Sydney">>
+                        <<track "Sydney1">>
+
+                        <<track "custom-Sydney-1">>
+                    <</createplaylist>>
+            <<case "Whitney">>
+                <<cacheaudio "Whitney1" "audio/bgm/nnpc/Whitney/Beat Mekanik - Influence.mp3">>
+
+                <<cacheaudio "custom-Whitney-1" "custom-audio-folder-name-here!/bgm/nnpc/Whitney/your audio here!.opus">>
+                    <<createplaylist "Whitney">>
+                        <<track "Whitney1">>
+
+                        <<track "custom-Whitney-1">>
+                    <</createplaylist>>
+            <<case "Wren">>
+                <<cacheaudio "Wren1" "audio/bgm/nnpc/Wren/Mr Smith - Badass.mp3">>
+
+                <<cacheaudio "custom-Wren-1" "custom-audio-folder-name-here!/bgm/nnpc/Wren/your audio here!.opus">>
+                    <<createplaylist "Wren">>
+                        <<track "Wren1">>
+
+                        <<track "custom-Wren-1">>
+                    <</createplaylist>>
+            <<case "Zephyr">>
+                <<cacheaudio "Zephyr1" "audio/bgm/nnpc/Zephyr/Mr Smith - Blood In The Water.mp3">>
+
+                <<cacheaudio "custom-Zephyr-1" "custom-audio-folder-name-here!/bgm/nnpc/Zephyr/your audio here!.opus">>
+                    <<createplaylist "Zephyr">>
+                        <<track "Zephyr1">>
+
+                        <<track "custom-Zephyr-1">>
+                    <</createplaylist>>
+
+            /% ========================================================================= %/
+            /% ===========================  AREAS (CONT.)  ============================= %/
+            /% ========================================================================= %/
+
+            <<case "office">>
+                <<cacheaudio "office1" "audio/bgm/office/Lite Saturation - Upbeat Corporate - Medium1.mp3">>
+
+                <<cacheaudio "custom-office-1" "custom-audio-folder-name-here!/bgm/office/your audio here!.opus">>
+                    <<createplaylist "office">>
+                        <<track "office1">>
+
+                        <<track "custom-office-1">>
+                    <</createplaylist>>
+            <<case "old_temple">>
+                <<cacheaudio "old_temple1" "audio/bgm/old_temple/Xennial - Coven.mp3">>
+
+                <<cacheaudio "custom-old_temple-1" "custom-audio-folder-name-here!/bgm/old_temple/your audio here!.opus">>
+                    <<createplaylist "old_temple">>
+                        <<track "old_temple1">>
+
+                        <<track "custom-old_temple-1">>
+                    <</createplaylist>>
+            <<case "park-day">>
+                <<cacheaudio "park-day1" "audio/bgm/park/day/snoozy beats - green valley.mp3">>
+
+                <<cacheaudio "custom-park-day-1" "custom-audio-folder-name-here!/bgm/park/day/your audio here!.opus">>
+                    <<createplaylist "park-day">>
+                        <<track "park-day1">>
+
+                        <<track "custom-park-day-1">>
+                    <</createplaylist>>
+            <<case "park-night">>
+                <<cacheaudio "park-night1" "audio/bgm/park/night/Kirk Osamayo - Early Morning Self Reflection.mp3">>
+
+                <<cacheaudio "custom-park-night-1" "custom-audio-folder-name-here!/bgm/park/night/your audio here!.opus">>
+                    <<createplaylist "park-night">>
+                        <<track "park-night1">>
+
+                        <<track "custom-park-night-1">>
+                    <</createplaylist>>
+            <<case "prison">>
+                <<cacheaudio "prison1" "audio/bgm/prison/HoliznaCC0 - Between Life And Death.mp3">>
+
+                <<cacheaudio "custom-prison-1" "custom-audio-folder-name-here!/bgm/prison/your audio here!.opus">>
+                    <<createplaylist "prison">>
+                        <<track "prison1">>
+
+                        <<track "custom-prison-1">>
+                    <</createplaylist>>
+            <<case "pub">>
+                <<cacheaudio "pub1" "audio/bgm/pub/Jahzzar - Boulevard St Germain.mp3">>
+
+                <<cacheaudio "custom-pub-1" "custom-audio-folder-name-here!/bgm/pub/your audio here!.opus">>
+                    <<createplaylist "pub">>
+                        <<track "pub1">>
+
+                        <<track "custom-pub-1">>
+                    <</createplaylist>>
+            <<case "school">>
+                <<cacheaudio "school1" "audio/bgm/school/Beat Mekanik - Flashy.mp3">>
+
+                <<cacheaudio "custom-school-1" "custom-audio-folder-name-here!/bgm/school/your audio here!.opus">>
+                    <<createplaylist "school">>
+                        <<track "school1">>
+
+                        <<track "custom-school-1">>
+                    <</createplaylist>>
+            <<case "afterschool">>
+                <<cacheaudio "afterschool1" "audio/bgm/school/afterschool/Myra Russell - Peaceful Serenity (Part 1).mp3">>
+
+                <<cacheaudio "custom-afterschool-1" "custom-audio-folder-name-here!/bgm/school/afterschool/your audio here!.opus">>
+                    <<createplaylist "afterschool">>
+                        <<track "afterschool1">>
+
+                        <<track "custom-afterschool-1">>
+                    <</createplaylist>>
+            <<case "sea">>
+                <<cacheaudio "sea1" "audio/bgm/sea/KaizanBlu - Deep.mp3">>
+
+                <<cacheaudio "custom-sea-1" "custom-audio-folder-name-here!/bgm/sea/your audio here!.opus">>
+                    <<createplaylist "sea">>
+                        <<track "sea1">>
+
+                        <<track "custom-sea-1">>
+                    <</createplaylist>>
+            <<case "sewers">>
+                <<cacheaudio "sewers1" "audio/bgm/sewers/Kirk Osamayo - Unsettling Ambience.mp3">>
+
+                <<cacheaudio "custom-sewers-1" "custom-audio-folder-name-here!/bgm/sewers/your audio here!.opus">>
+                    <<createplaylist "sewers">>
+                        <<track "sewers1">>
+
+                        <<track "custom-sewers-1">>
+                    <</createplaylist>>
+            <<case "shopping_centre">>
+                <<cacheaudio "shopping_centre1" "audio/bgm/shopping_centre/Beat Mekanik - Good Ol' Days.mp3">>
+
+                <<cacheaudio "custom-shopping_centre-1" "custom-audio-folder-name-here!/bgm/shopping_centre/your audio here!.opus">>
+                    <<createplaylist "shopping_centre">>
+                        <<track "shopping_centre1">>
+
+                        <<track "custom-shopping_centre-1">>
+                    <</createplaylist>>
+            <<case "strip_club">>
+                <<cacheaudio "strip_club1" "audio/bgm/strip_club/Zight - Daisy (EDM _ Instrumental).mp3">>
+
+                <<cacheaudio "custom-strip_club-1" "custom-audio-folder-name-here!/bgm/strip_club/your audio here!.opus">>
+                    <<createplaylist "strip_club">>
+                        <<track "strip_club1">>
+
+                        <<track "custom-strip_club-1">>
+                    <</createplaylist>>
+            <<case "studio">>
+                <<cacheaudio "studio1" "audio/bgm/studio/Jahzzar - Jardins du Luxembourg.mp3">>
+
+                <<cacheaudio "custom-studio-1" "custom-audio-folder-name-here!/bgm/studio/your audio here!.opus">>
+                    <<createplaylist "studio">>
+                        <<track "studio1">>
+
+                        <<track "custom-studio-1">>
+                    <</createplaylist>>
+            <<case "temple">>
+                <<cacheaudio "temple1" "audio/bgm/temple/Kirk Osamayo - Ice World 2.mp3">>
+
+                <<cacheaudio "custom-temple-1" "custom-audio-folder-name-here!/bgm/temple/your audio here!.opus">>
+                    <<createplaylist "temple">>
+                        <<track "temple1">>
+
+                        <<track "custom-temple-1">>
+                    <</createplaylist>>
+            <<case "tentworld">>
+                <<cacheaudio "tentworld1" "audio/bgm/tentworld/Schemawound - Tone 5 - Body Temperature Drops and the Heart Rate Begins to Slow.mp3">>
+
+                <<cacheaudio "custom-tentworld-1" "custom-audio-folder-name-here!/bgm/tentworld/your audio here!.opus">>
+                    <<createplaylist "tentworld">>
+                        <<track "tentworld1">>
+
+                        <<track "custom-tentworld-1">>
+                    <</createplaylist>>
+            <<case "town-day">>
+                <<cacheaudio "town-day1" "audio/bgm/town/day/Beat Mekanik - Flashback.mp3">>
+                <<cacheaudio "town-day2" "audio/bgm/town/day/Anthem of Rain - Gimme All I Want (Instrumental).mp3">>
+
+                <<cacheaudio "custom-town-day-1" "custom-audio-folder-name-here!/bgm/town/day/your audio here!.opus">>
+                    <<createplaylist "town-day">>
+                        <<track "town-day1">>
+                        <<track "town-day2">>
+
+                        <<track "custom-town-day-1">>
+                    <</createplaylist>>
+            <<case "town-night">>
+                <<cacheaudio "town-night1" "audio/bgm/town/night/Beat Mekanik - Stars.mp3">>
+                <<cacheaudio "town-night2" "audio/bgm/town/night/Mr Smith - Dusk.mp3">>
+
+                <<cacheaudio "custom-town-night-1" "custom-audio-folder-name-here!/bgm/town/night/your audio here!.opus">>
+                    <<createplaylist "town-night">>
+                        <<track "town-night1">>
+                        <<track "town-night2">>
+
+                        <<track "custom-town-night-1">>
+                    <</createplaylist>>
