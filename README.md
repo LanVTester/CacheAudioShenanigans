@@ -38,6 +38,15 @@ step 3: press enter to stop it
 step 4: yay ur done!
 step 5: you can go ahead and put back the (CacheAudio.txt and Patch.py) in the CAS Folder but leave the special-audio-tl in the DoL Folder
 
+
+the easiest steps:
+step 1: download the latest zip of CAS and the latest zip in dolmods too.
+step 2: unzip it
+step 3: check the exe folder
+step 4: move the patch.exe into your DoLx folder along with your own audio folder and cache-audio.txt
+step 5: use the patch.exe
+step 6: thats all. the restore.py.exe only restores your previous html of DoLx.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 How to add your own track without blowing up everything into red!
